@@ -30,7 +30,7 @@ Similarity Matching (cosine distance)
 
 Python, PyTorch, OpenCV, Pandas, Numpy.
 
-📊 Results
+# 📊 Results
 
 Demonstrated that incorporating saliency maps improves retrieval accuracy
 
