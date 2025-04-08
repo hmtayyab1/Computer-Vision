@@ -1,4 +1,5 @@
-#🧠 Computer Vision Project
+# 🧠 Computer Vision Project
+
 This project explores the impact of saliency map integration on the performance of an image retrieval system. Using a dataset of nearly 10,000 images, the workflow involves:
 
 ✅ Fine-tuning an Object Detection model
@@ -9,23 +10,24 @@ This project explores the impact of saliency map integration on the performance 
 
 ✅ Comparing retrieval performance before and after incorporating saliency information
 
-🔍 Objectives
+# 🔍 Objectives
+
 Improve the relevance of retrieved images using saliency cues
 
 Evaluate how visual attention affects similarity matching
 
 Measure retrieval accuracy and visual quality pre- and post-saliency integration
 
-🛠️ Techniques & Tools
-Object Detection (e.g., YOLO / Faster R-CNN)
+# 🛠️ Techniques & Tools
+Object Detection (YOLO)
 
-Saliency Map Generation (e.g., Grad-CAM / Deep Gaze / other)
+Saliency Map Generation (Grad-CAM/RESNET18)
 
-Feature extraction with CNNs / Vision Transformers
+Saliency Ma Image Retrieval (VGG16)
 
-Similarity Matching (e.g., cosine distance)
+Similarity Matching (cosine distance)
 
-Python, PyTorch, OpenCV, etc.
+Python, PyTorch, OpenCV, Pandas, Numpy.
 
 📊 Results
 Demonstrated that incorporating saliency maps improves retrieval accuracy
