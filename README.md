@@ -19,6 +19,7 @@ Evaluate how visual attention affects similarity matching
 Measure retrieval accuracy and visual quality pre- and post-saliency integration
 
 # 🛠️ Techniques & Tools
+
 Object Detection (YOLO)
 
 Saliency Map Generation (Grad-CAM/RESNET18)
@@ -30,6 +31,7 @@ Similarity Matching (cosine distance)
 Python, PyTorch, OpenCV, Pandas, Numpy.
 
 📊 Results
+
 Demonstrated that incorporating saliency maps improves retrieval accuracy
 
 Visual and quantitative comparisons included
