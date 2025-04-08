@@ -1,4 +1,4 @@
-🧠 ##Computer Vision Project
+#🧠 Computer Vision Project
 This project explores the impact of saliency map integration on the performance of an image retrieval system. Using a dataset of nearly 10,000 images, the workflow involves:
 
 ✅ Fine-tuning an Object Detection model
